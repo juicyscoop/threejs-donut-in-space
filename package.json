@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "create-vite": "^3.1.0",
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "three": "^0.144.0"
   }
 }
